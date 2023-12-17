@@ -1,6 +1,6 @@
 # Sorting and Performance Statistics Program
 ## Overview
-This repository contains a C program to sort data along with performance statistics and timing information.
+This repository contains a C program to sort data along with performance statistics and timing information for the paper **MaxSort: An Efficient and Complete Sorting Algorithm**.
 
 ## Repository Contents
 - sort.c: The main C source code for the sorting program.
