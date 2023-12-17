@@ -29,5 +29,4 @@ This repository contains a C program written by Raymond Wong, used for experimen
 ## Technical Report
 We upload the full technical report including every detail of our project as Sort.pdf.
 
-## Citation
-If you want to use our code, please cite as xxx.
+
